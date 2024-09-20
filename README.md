@@ -1,1 +1,1 @@
-# banking-application
+# GUI Based Banking Application
