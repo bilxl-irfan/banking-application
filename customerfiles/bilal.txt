@@ -1,0 +1,5 @@
+Username: bilal
+Password: bilal
+Role: customer
+Balance: 60100.00
+Level: Platinum
