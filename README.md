@@ -185,11 +185,11 @@ customerfiles/
 
 ## 👨‍💻 Author
 
-**Bilal Irfan** | Student ID: 501176502
+**Bilal Irfan**
 
 ## 📄 License
 
-This project is licensed under the MIT License - feel free to use it for learning and development purposes!
+This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
@@ -204,3 +204,4 @@ Built as a software engineering project demonstrating object-oriented design pri
 Made with ☕ and 💻 by [Bilal Irfan](https://github.com/bilxl-irfan)
 
 </div>
+
